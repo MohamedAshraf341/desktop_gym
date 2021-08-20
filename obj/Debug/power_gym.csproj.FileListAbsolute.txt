@@ -1,0 +1,41 @@
+E:\courses\c#\m7mod salem\New folder\power_gym\bin\Debug\power_gym.exe.config
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.Properties.Resources.resources
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.csproj.GenerateResource.Cache
+E:\courses\c#\m7mod salem\New folder\power_gym\bin\Debug\power_gym.exe
+E:\courses\c#\m7mod salem\New folder\power_gym\bin\Debug\power_gym.pdb
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.exe
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.pdb
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_User.resources
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_booking.resources
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.gym_PL.CON_Cover.resources
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_Login.resources
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_Main.resources
+E:\courses\c#\m7mod salem\New folder\power_gym\obj\Debug\power_gym.gym_PL.CON_Member.resources
+E:\courses\c#\ms\New folder\power_gym\bin\Debug\power_gym.exe.config
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.exe
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.pdb
+E:\courses\c#\ms\New folder\power_gym\bin\Debug\power_gym.exe
+E:\courses\c#\ms\New folder\power_gym\bin\Debug\power_gym.pdb
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.csprojResolveAssemblyReference.cache
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_User.resources
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_booking.resources
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.gym_PL.CON_Cover.resources
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_Login.resources
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.gym_PL.FRM_Main.resources
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.gym_PL.CON_Member.resources
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.Properties.Resources.resources
+E:\courses\c#\ms\New folder\power_gym\obj\Debug\power_gym.csproj.GenerateResource.Cache
+F:\projects\power_gym\bin\Debug\power_gym.exe.config
+F:\projects\power_gym\obj\Debug\power_gym.exe
+F:\projects\power_gym\obj\Debug\power_gym.pdb
+F:\projects\power_gym\bin\Debug\power_gym.exe
+F:\projects\power_gym\bin\Debug\power_gym.pdb
+F:\projects\power_gym\obj\Debug\power_gym.csprojResolveAssemblyReference.cache
+F:\projects\power_gym\obj\Debug\power_gym.gym_PL.FRM_User.resources
+F:\projects\power_gym\obj\Debug\power_gym.gym_PL.FRM_booking.resources
+F:\projects\power_gym\obj\Debug\power_gym.gym_PL.CON_Cover.resources
+F:\projects\power_gym\obj\Debug\power_gym.gym_PL.FRM_Login.resources
+F:\projects\power_gym\obj\Debug\power_gym.gym_PL.FRM_Main.resources
+F:\projects\power_gym\obj\Debug\power_gym.gym_PL.CON_Member.resources
+F:\projects\power_gym\obj\Debug\power_gym.Properties.Resources.resources
+F:\projects\power_gym\obj\Debug\power_gym.csproj.GenerateResource.Cache
